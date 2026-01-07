@@ -1,0 +1,143 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11) (preloaded format=pdftex 2022.11.25)  25 APR 2023 19:21
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./extraordinary_alien_second_section.tex
+(extraordinary_alien_second_section.tex
+Underfull \vbox (badness 5771) has occurred while \output is active
+\vbox(643.20255+2.33331)x469.75499, glue set 3.8671
+.\glue(\topskip) 1.66669
+.\hbox(8.33331+0.0)x469.75499, glue set 336.31921fil
+..\hbox(0.0+0.0)x0.0
+..\twelvess E
+..\twelvess X
+..\twelvess T
+..\twelvess R
+..etc.
+.\glue(\parskip) 0.0 plus 1.0
+.\glue(\baselineskip) 17.66669
+.\hbox(8.33331+0.0)x469.75499, glue set 370.30478fil
+..\hbox(0.0+0.0)x0.0
+..\twelvess S
+..\twelvess E
+..\twelvess C
+..\twelvess O
+..etc.
+.etc.
+
+ [1{C:/Users/pmcra/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+2.33331)x469.75499, glue set 9.20255
+.\glue(\topskip) 1.66669
+.\hbox(8.33331+2.33331)x469.75499, glue set - 0.21733
+..\twelverm t
+..\twelverm o
+..\glue 3.91663 plus 1.95831 minus 1.30554
+..\twelverm Z
+..\twelverm o
+..etc.
+.\glue(\baselineskip) 15.33337
+.\hbox(8.33331+2.33331)x469.75499, glue set - 0.40193
+..\twelverm d
+..\twelverm e
+..\twelverm t
+..\twelverm e
+..\twelverm r
+..etc.
+.\glue(\baselineskip) 15.33337
+.etc.
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+2.33331)x469.75499, glue set 4.60127
+.\glue(\topskip) 1.66669
+.\hbox(8.33331+2.33331)x469.75499, glue set 0.46844
+..\hbox(0.0+0.0)x20.0
+..\twelverm `
+..\twelverm W
+..\kern-0.97916
+..\twelverm e
+..etc.
+.\penalty 150
+.\glue(\baselineskip) 15.33337
+.\hbox(8.33331+2.33331)x469.75499, glue set 0.59677
+..\twelverm a
+..\glue 3.91663 plus 1.95831 minus 1.30554
+..\twelverm p
+..\twelverm r
+..\twelverm e
+..etc.
+.etc.
+
+ [3]
+Underfull \vbox (badness 1215) has occurred while \output is active
+\vbox(643.20255+2.33331)x469.75499, glue set 2.30064
+.\glue(\topskip) 1.66669
+.\hbox(8.33331+2.33331)x469.75499, glue set - 0.61584
+..\twelverm l
+..\twelverm a
+..\kern-0.32639
+..\twelverm w
+..\twelverm s
+..etc.
+.\glue(\baselineskip) 15.33337
+.\hbox(8.33331+2.33331)x469.75499, glue set 0.11621
+..\twelverm s
+..\twelverm p
+..\kern0.32639
+..\twelverm e
+..\twelverm n
+..etc.
+.\glue(\baselineskip) 15.33337
+.etc.
+
+ [4]
+[5] [6] [7] [8] [9] [10] [11]
+Underfull \vbox (badness 10000) has occurred while \output is active
+\vbox(643.20255+2.33331)x469.75499, glue set 4.60127
+.\glue(\topskip) 1.66669
+.\hbox(8.33331+2.33331)x469.75499, glue set 0.15808
+..\twelverm t
+..\twelverm h
+..\twelverm e
+..\glue 3.91663 plus 1.95831 minus 1.30554
+..\twelverm d
+..etc.
+.\glue(\baselineskip) 15.33337
+.\hbox(8.33331+2.33331)x469.75499, glue set - 0.25179
+..\twelverm s
+..\twelverm l
+..\twelverm e
+..\twelverm e
+..\twelverm p
+..etc.
+.\penalty 150
+.etc.
+
+ [12]
+! Missing } inserted.
+<inserted text> 
+                }
+<to be read again> 
+                   $
+l.202 ...$1973{\uparrow}5{\downarrow \downarrow35$
+                                                  
+? 
+[13] [14] )<C:/Users/pmcra/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmdunh10.pfb><C:/Users/pmcra/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmmi10.pfb><C:/Users/pmcra/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/pmcra/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/pmcra/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl12.pfb><C:/Users/pmcra/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/pmcr
+a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
+sers/pmcra/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.
+pfb><C:/Users/pmcra/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmtt12.pfb>
+Output written on extraordinary_alien_second_section.pdf (14 pages, 143639 byte
+s).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
